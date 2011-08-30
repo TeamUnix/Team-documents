@@ -1,0 +1,21 @@
+#
+#	gitignore config file
+#
+
+#	when this file is copied the name have to be change to .gitignore
+
+#	Generel
+*~
+#
+
+#	LaTeX
+*.aux
+*.dvi
+*.log
+*.synctex-gz
+*.pdf
+#
+
+#	VHDL
+
+#
